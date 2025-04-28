@@ -16,3 +16,8 @@ By executing matrix multiplications using both methods, the application measures
 - Benchmarking: Measures and compares the execution times of the two implementations.​
 - Graphical User Interface: Provides a user-friendly WinForms interface to input matrix sizes, initiate computations, and view results.​
 
+## Benchmark results
+
+![Results for parallel class](img/test_parallel.jpeg)
+
+![Results for threads low level class](img/test_threads.jpeg)
